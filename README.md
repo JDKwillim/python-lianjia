@@ -1,1 +1,6 @@
 # python-lianjia
+上海链家网二手房数据分析及其可视化实现
+通过data_collection.py获取数据
+analysis.py为分析程序 从多个维度分析二手房数据信息
+kmeans.py使用算法建模，将二手房数据根据单价总价面积分类
+kmean_analysis.py将聚类的结果进行可视化
